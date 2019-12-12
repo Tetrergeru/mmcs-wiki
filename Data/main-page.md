@@ -23,4 +23,4 @@
 -  [PascalABC.NET](pascal.md)
 
 Файл про верёвку
--  [*Тык*] (rope.md)
+-  [Исправленный Тык](rope.md)
