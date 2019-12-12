@@ -18,6 +18,7 @@
  
  Быт на мехмате:
  - [Cтоловая](cafeteria.md)
+ - [Токсичность на ФИИТ](ToxicFiiT.md)
 
 Технологии:
 -  [PascalABC.NET](pascal.md)
