@@ -18,6 +18,7 @@
  
 Быт на мехмате:
  - [Cтоловая](cafeteria.md)
+ - [Чаты и сообщества](vk.md)
  - [Старосты мехмата](group-representative.md)
  - [Токсичность на ФИИТ](ToxicFiiT.md)
  - [Кружки по программированию](programming-clubs.md)
