@@ -18,6 +18,7 @@
  
  Быт на мехмате:
  - [Cтоловая](cafeteria.md)
+ - [Чаты и сообщества](vk.md)
 
 Технологии:
 -  [PascalABC.NET](pascal.md)
