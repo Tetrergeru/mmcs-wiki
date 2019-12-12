@@ -16,9 +16,14 @@
  Самоделка:
  ...
  
- Быт на мехмате:
+Быт на мехмате:
  - [Cтоловая](cafeteria.md)
  - [Старосты мехмата](group-representative.md)
+ - [Токсичность на ФИИТ](ToxicFiiT.md)
+ - [Кружки по программированию](programming-clubs.md)
 
 Технологии:
 -  [PascalABC.NET](pascal.md)
+
+Файл про верёвку
+-  [Исправленный Тык](rope.md)
