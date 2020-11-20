@@ -1,5 +1,5 @@
 # C++ отличный Язык программирования
 Мы все его любим! 
 *Пример кода на С++*
-<int main()
-    std::cout<<"Hello World"<<endl;>
+    int main()
+        std::cout<<"Hello World"<<endl;
